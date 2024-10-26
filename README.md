@@ -24,18 +24,18 @@
 
 ### Задание 1
 
-![Задание 1](/home/ivan/zabbix_part2/screenshots/Задание 1.png)
+![Задание 1](/screenshots/Задание 1.png)
 
 
 ---
 
 ### Задание 2-3
 
-![Задание 2-3](/home/ivan/zabbix_part2/screenshots/Задание 2-3.png)
+![Задание 2-3](/screenshots/Задание 2-3.png)
 
 
 ---
 
 ### Задание 4
 
-![Задание 4](/home/ivan/zabbix_part2/screenshots/Задание 4.png)
+![Задание 4](/screenshots/Задание 4.png)
